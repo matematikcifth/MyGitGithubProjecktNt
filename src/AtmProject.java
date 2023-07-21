@@ -33,6 +33,8 @@ public class AtmProject {
 
         //localde degisiklik yaptim
 
+        //remote da degisiklik yaptim
+
 
 
 
