@@ -12,9 +12,12 @@ public class AtmProject {
 
         System.out.println("java kolaydir");
 
-        //version2g
+        //version 2
         System.out.println("java para dir");
         //versiyon 3
+
+        System.out.println("Git ogrenmek kolaydir");
+        //versiyon 4
 
     }
 
