@@ -13,6 +13,8 @@ public class AtmProject {
         System.out.println("java kolaydir");
 
         //version2g
+        System.out.println("java para dir");
+        //versiyon 3
 
     }
 
